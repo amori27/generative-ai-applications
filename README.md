@@ -22,7 +22,7 @@ A comprehensive toolkit for building generative AI applications featuring large 
 ## Installation
 
 ```bash
-git clone https://github.com/AmirAsaad/generative-ai-applications.git
+git clone https://github.com/amori27/generative-ai-applications.git
 cd generative-ai-applications
 pip install -r requirements.txt
 ```

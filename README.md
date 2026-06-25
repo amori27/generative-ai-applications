@@ -1,4 +1,6 @@
 # Generative AI Applications
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 
 Production-ready generative AI applications including text generation, image generation, and LLM integration using OpenAI, Anthropic, and open-source models.
 
